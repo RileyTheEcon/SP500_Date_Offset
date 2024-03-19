@@ -1,0 +1,13 @@
+Name,SeriesID,Handling
+Fed-Rate,DFF,Daily
+GDP,GDPC1,GDP
+CPI,CPIAUCSL,Monthly
+CPI-Core,CPILFESL,Monthly
+PCE,PCEPI,Monthly
+PCE-Core,PCEPILFE,Monthly
+Unemploy,UNRATE,Monthly
+Total-Emp,PAYEMS,Monthly
+Home-Starts,HOUST,Monthly
+Home-Sales,HSN1F,Monthly
+Con-Spends,TTLCONS,Monthly
+Con-Sentim,UMCSENT,Monthly
